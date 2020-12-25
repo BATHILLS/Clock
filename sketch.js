@@ -52,14 +52,14 @@ function draw() {
   rotate(end2);
   stroke(1, 254, 0);
   strokeWeight(9)
-  line(0,0,75,0);
+  line(0,0,115,0);
   pop();
 
   push();
   rotate(end3);
   stroke("yellow");
   strokeWeight(7)
-  line(0,0,115,0);
+  line(0,0,75,0);
   pop();
 
  
